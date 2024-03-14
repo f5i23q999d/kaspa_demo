@@ -1,0 +1,17 @@
+{
+  "name": "kaspa_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@okxweb3/coin-kaspa": "^1.0.3",
+    "axios": "^1.6.7",
+    "bip39": "^3.1.0",
+    "hdkey": "^2.1.0"
+  }
+}
